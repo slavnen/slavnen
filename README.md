@@ -52,6 +52,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original-wordmark.svg" title="kibana" width="80" height="80"/>&nbsp;
 ---
 
+## Образование
+
+|[<img src="./images/certificate-practicum-1.jpg" width="208px" alt="Диплом о профессиональной переподготовке по профессии «Инженер по тестированию»">](https://disk.yandex.ru/i/Momm039lzWKRYA)|[<img src="./images/certificate-practicum-2.jpg" width="208px" alt="сертификат о прохождении базового курса по профессии «Инженер по тестированию»">]((https://disk.yandex.ru/i/VPFvnICx-Zcs9Q))|
 ## Мои хобби и увлечения
 
 👀 Вот, чем мне нравится заниматься:
