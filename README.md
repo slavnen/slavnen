@@ -59,6 +59,12 @@
 
 |[<img src="./Диплом рус.png" width="208px" alt="Диплом о профессиональной переподготовке по профессии «Инженер по тестированию»">](https://disk.yandex.ru/i/Momm039lzWKRYA)|[<img src="./сертификат рус.jpg" width="208px" alt="Сертификат о прохождении базового курса по профессии «Инженер по тестированию»">]((https://disk.yandex.ru/i/VPFvnICx-Zcs9Q))|
 
+## Примеры работ
+
+[<img src="./Kinopoisk Postman.png" width="208px" alt="Пример работы в Postman">](https://disk.yandex.ru/i/Ap0Wm2t7OsvIXQ)
+[<img src="./позитивная проверка.png" width="212px" alt="Позитивная проверка">]((https://disk.yandex.ru/i/mu8PrnKIj6GNlQ))
+[<img src="./негативная проверка.png" width="211px" alt="Негативная проверка">](https://disk.yandex.ru/i/n49aOn7NosZ9kw)
+[<img src="./нефункциональная проверка.png" width="210px" alt="Нефункциональная проверка">]((https://disk.yandex.ru/i/Ia2eW_DHnOXG_w))
 
 ## Мои хобби и увлечения
 
