@@ -50,11 +50,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" title="swagger" width="80" height="80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original-wordmark.svg" title="openapi" width="80" height="80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original-wordmark.svg" title="kibana" width="80" height="80"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST" alt="REST" width="80" height="80"/>&nbsp;
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="80" height="80"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="80" height="80"/>&nbsp;
 ---
 
 ## Образование
 
 |[<img src="./Диплом рус.png" width="208px" alt="Диплом о профессиональной переподготовке по профессии «Инженер по тестированию»">](https://disk.yandex.ru/i/Momm039lzWKRYA)|[<img src="./сертификат рус.jpg" width="208px" alt="Сертификат о прохождении базового курса по профессии «Инженер по тестированию»">]((https://disk.yandex.ru/i/VPFvnICx-Zcs9Q))|
+
+
 ## Мои хобби и увлечения
 
 👀 Вот, чем мне нравится заниматься в свободное время:
